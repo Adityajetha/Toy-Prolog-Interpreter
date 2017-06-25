@@ -1,4 +1,4 @@
-# Toy-Prolog-Interpreter
+# Toy-Prolog-Interpreter in Ocaml
 Prolog interpreter for simple queries
 
 1) Just type "make" to build the program.
